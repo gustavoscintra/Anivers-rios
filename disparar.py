@@ -53,7 +53,7 @@ PESSOAS = [
 # Números que vão receber o aviso — formato: (numero_com_ddi, api_key)
 # A api_key você recebe do CallMeBot após ativar
 DESTINATARIOS = [
-    ("5516991981267", "SUA_API_KEY_AQUI"),
+    ("5516991981267", "7722638"),
 ]
 
 def verificar_e_disparar():
