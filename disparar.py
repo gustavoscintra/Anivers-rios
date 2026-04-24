@@ -4,6 +4,7 @@ from datetime import date
 
 PESSOAS = [
     {"nome": "Maria Rita", "dia": 8, "mes": 1},
+    {"nome": "Teste", "dia": 23, "mes": 4},
     {"nome": "Rone", "dia": 23, "mes": 1},
     {"nome": "Gustavo", "dia": 14, "mes": 2},
     {"nome": "Ana Maria", "dia": 18, "mes": 2},
@@ -48,6 +49,7 @@ PESSOAS = [
     {"nome": "Bia", "dia": 3, "mes": 12},
     {"nome": "Fabrícia", "dia": 3, "mes": 12},
     {"nome": "João", "dia": 15, "mes": 12},
+    
 ]
 
 # Números que vão receber o aviso — formato: (numero_com_ddi, api_key)
